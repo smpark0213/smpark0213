@@ -11,5 +11,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmpark0213%2Fhit-counter&count_bg=%239200FF&title_bg=%2300E7FF&icon=&icon_color=%23F30000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<img src="https://img.shields.io/badge/C-#FF0000?style=flat-square&logo=#A8B9CC&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-#FF0000?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
