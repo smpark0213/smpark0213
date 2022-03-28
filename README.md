@@ -12,5 +12,8 @@
 
 
 <img src="https://img.shields.io/badge/C%20Language-FF0000?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-
+<img src="https://img.shields.io/badge/C%2B%2B-FFFFE0?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-008B8B?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JAVA-FFF8DC?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-FFFACD?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
 
