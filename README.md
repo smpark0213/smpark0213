@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smpark0213&show_icons=true&theme=radical&count_private=true&include_all_commits=ture&show_icons)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmpark0213%2Fhit-counter&count_bg=%239200FF&title_bg=%2300E7FF&icon=&icon_color=%23F30000&title=Hits&edge_flat=false)](https://www.naver.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmpark0213%2Fhit-counter&count_bg=%239200FF&title_bg=%2300E7FF&icon=&icon_color=%23F30000&title=Hits&edge_flat=false)](https://github.com/smpark0213/Ebaman/blob/main/README.md)
 
 
 <img src="https://img.shields.io/badge/C%20Language-FF0000?style=flat-square&logo=C&logoColor=white"/>
