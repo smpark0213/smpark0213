@@ -10,10 +10,3 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmpark0213%2Fhit-counter&count_bg=%239200FF&title_bg=%2300E7FF&icon=&icon_color=%23F30000&title=Hits&edge_flat=false)](https://github.com/smpark0213/Ebaman/blob/main/README.md)
 
-
-<img src="https://img.shields.io/badge/C%20Language-FF0000?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-FFFFE0?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-008B8B?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-FFF8DC?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFFACD?style=flat-square&logo=JavaScript&logoColor=white"/>
-
